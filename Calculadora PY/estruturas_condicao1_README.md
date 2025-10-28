@@ -15,7 +15,3 @@ O que observar
 - O script atualmente define `temperatura = 31` no corpo do arquivo; alterar esse valor no código permite testar outros ramos do `if`.
 - Para tornar interativo, substitua a atribuição por `temperatura = float(input("Digite a temperatura: "))`.
 
-Sugestões
----------
-- Encapsular a lógica em uma função `main()` e usar `if __name__ == "__main__":`.
-- Validar entrada do usuário se transformar em interativo.

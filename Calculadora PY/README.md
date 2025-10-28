@@ -77,13 +77,5 @@ if __name__ == "__main__":
 
 - Python 3.x (testado com Python 3.8+)
 
-## Próximos passos que posso executar
-
-- Encapsular scripts em `main()` e aplicar pequenas refatorações.
-- Adicionar um arquivo `requirements.txt` (se houver dependências) e testes básicos com `pytest`.
-- Fazer commit e push destas mudanças (se você confirmar o caminho do repositório/local onde deseja executar git).
-
 ---
-
-Se quiser que eu faça qualquer um dos próximos passos, diga qual prefere e eu executo.
 

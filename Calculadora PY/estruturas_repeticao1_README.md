@@ -18,8 +18,3 @@ Notas
 -----
 - O script compara a string da entrada com `'0'`, portanto entradas como `0` (quando convertidas por `int`) não são usadas — o comportamento é apropriado para leitura de texto.
 - Para permitir verificação numérica, você pode converter a entrada para `int` dentro de um bloco `try/except`.
-
-Melhorias
----------
-- Encapsular a lógica em `main()`.
-- Adicionar instruções claras para o usuário (por exemplo, imprimir uma mensagem inicial explicando como sair).

@@ -29,12 +29,3 @@ Digite o segundo número: 0
 Digite a operação desejada (+, -, *, / ou nome da operação): /
 Resultado da operação: Não foi possível realizar a divisão por 0
 ```
-
-Notas e sugestões
-------------------
-- O script já trata `ValueError` para entradas não numéricas.
-- Sugestão: encapsular a interação em uma função `main()` e proteger com `if __name__ == "__main__": main()` para permitir importação em testes.
-
-Pequenas melhorias sugeridas
-- Adicionar testes unitários para funções (por exemplo, `adicao`, `divisao`).
-- Usar `argparse` para permitir execução não interativa.
